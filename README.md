@@ -59,7 +59,3 @@ It provides easy access to a wide collection of high-quality custom skins with a
 - Celestial Launcher development team
 
 ---
-
-Готово!  
-
-Хотите сделать версию более премиум/агрессивную, добавить конкретные инструкции или изменить описание?
